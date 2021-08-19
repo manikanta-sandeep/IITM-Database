@@ -1,5 +1,19 @@
 # IITM-Database
 ***
+
+### Course registration
+1. Course registration dates
+2. Fee structure and Uploading suitable documents
+3. Eligible courses for registartion
+4. Repeating courses
+5. Failed courses
+6. Taking feedback on spending time for IITMOD
+7. Set of Courses suggestion
+8. Credit clearing capability (CCC)
+9. Course recommendations
+10. Course selection (List of eligible courses, credits, duration, end term exam date, professor, instructors)
+11. Select default exam city, country options
+12. Prefrence order
 ## Student Personal Details
 1. Name
 2. email
@@ -13,8 +27,12 @@
     - Bonafide
     - Progress report
     - IITM ID card
+    - Photo
+    - Signature
+    - 12th Mark sheet
 6. Hall tickets
-7. Give status to students
+7. Admission letter
+8. Give status to students
         - Currently enrolled in atleast a course
         - New member
         - In probation
@@ -25,11 +43,12 @@
         - Only writing final exam
         - Active/Not active in groups
 
+
 ## Course details
 1. Duration
 2. Professors
 3. Instructors
-4. Notes/PPTs/References
+4. Notes/PPTs/References/Supplementary content
 5. Course Videos
 6. Graded Assignments
 7. Practice assignments
@@ -37,6 +56,20 @@
 9. Activities
 10. Forums
 11. Solve with instructor
+12. Syllabus
+13. Credits for each course
+14. No.of Weeks
+15. Refreshers weeks
+16. Videos/week
+17. Deadlines
+18. Last submitted
+19. Online IDE
+20. Mock tests
+21. About the course
+22. Course IntroductionScores
+23. Announcements
+24. Advanced integrated Calculator
+25. Course grade
 
 
 ## Professor details
@@ -82,6 +115,11 @@
     - For new applicants the view is different
     - They will be stored separate in database
     -  Course registration approves/Not
+11. Documents related to course details/Programme details
+12. Academic calender
+13. NPTEL Course list
+14. Rules and regulations/Student Honour code
+
 
 ## Student Dashboard
 1. Current courses
@@ -94,3 +132,7 @@
     - Another view as course code wise (Give dashboard for each course)-All previous courses in same page
 3. Quiz papers and solutions
 4. End-term papers and solutions
+5. Clubs he is present in
+6. House details and website links
+7. Exam dates
+8. Exam centre preferences

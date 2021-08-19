@@ -82,3 +82,15 @@
     - For new applicants the view is different
     - They will be stored separate in database
     -  Course registration approves/Not
+
+## Student Dashboard
+1. Current courses
+    - Avg.Quiz score
+    - Final exam eligibility
+    - Avg. Graded assignment score
+2. Previous courses
+    - Arrange previous courses in termwise
+    - Give termwise dashboard (Same as current dashboard for each course in that respective term)
+    - Another view as course code wise (Give dashboard for each course)-All previous courses in same page
+3. Quiz papers and solutions
+4. End-term papers and solutions

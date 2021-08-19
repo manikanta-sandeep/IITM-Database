@@ -47,6 +47,20 @@
 3. House leaders
 4. Support staff
 5. Course Registration
+        - Courses available for registration
+        - Courses available for repeat
+        - Courses failed
+        - Courses Passed
+        - Courses for writing only end-term exams
+        - Your term number
+        - Credit clearing capability (CCC)
+        - Using ML
+                - Give course recommendations
+                - According to previous courses taken
+                - Suggest term-wise plan for remaining courses
+                - Suggest course orientation videos
+        - Course selection considering all above criteria
+
 6. Fee payment
 7. Fee reimbursement
     - Ask student for bank details

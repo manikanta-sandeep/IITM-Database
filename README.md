@@ -89,7 +89,7 @@
     - Final exam eligibility
     - Avg. Graded assignment score
 2. Previous courses
-    - Arrange previous courses in termwise
+    - Arrange previous courses in termwise order(term taken data/duration, exams written etc.)
     - Give termwise dashboard (Same as current dashboard for each course in that respective term)
     - Another view as course code wise (Give dashboard for each course)-All previous courses in same page
 3. Quiz papers and solutions

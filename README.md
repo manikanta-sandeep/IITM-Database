@@ -14,6 +14,16 @@
     - Progress report
     - IITM ID card
 6. Hall tickets
+7. Give status to students
+        - Currently enrolled in atleast a course
+        - New member
+        - In probation
+        - In rest/break
+        - Completed/Alumni
+        - Fondation/Diploma/Degree level
+        - Only repeating course
+        - Only writing final exam
+        - Active/Not active in groups
 
 ## Course details
 1. Duration
@@ -68,3 +78,7 @@
     - Parent's account
 8. Complaints / Queries
 9. Test centres
+10. New applicants
+    - For new applicants the view is different
+    - They will be stored separate in database
+    -  Course registration approves/Not

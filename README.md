@@ -19,6 +19,7 @@
 15. Preview form
 16. Registered as student in IITMOD (Create the document)
 17. FEE payment and details
+18. Course prerequisites
 
 
 ## Student Personal Details
@@ -52,31 +53,32 @@
 
 
 ## Course details
-1. Duration
-2. Professors
-3. Instructors
-4. Notes/PPTs/References/Supplementary content
-5. Course Videos
-6. Graded Assignments
-7. Practice assignments
-8. Due date
-9. Activities
-10. Forums
-11. Solve with instructor
-12. Syllabus
-13. Credits for each course
-14. No.of Weeks
-15. Refreshers weeks
-16. Videos/week
-17. Deadlines
-18. Last submitted
-19. Online IDE
-20. Mock tests
-21. About the course
-22. Course IntroductionScores
-23. Announcements
-24. Advanced integrated Calculator
-25. Course grade
+1. Pre-requisites
+2. Duration
+3. Professors
+4. Instructors
+5. Notes/PPTs/References/Supplementary content
+6. Course Videos
+7. Graded Assignments
+8. Practice assignments
+9. Due date
+10. Activities
+11. Forums
+12. Solve with instructor
+13. Syllabus
+14. Credits for each course
+15. No.of Weeks
+16. Refreshers weeks
+17. Videos/week
+18. Deadlines
+19. Last submitted
+20. Online IDE
+21. Mock tests
+22. About the course
+23. Course IntroductionScores
+24. Announcements
+25. Advanced integrated Calculator
+26. Course grade
 
 
 ## Professor details

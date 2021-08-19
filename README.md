@@ -14,6 +14,13 @@
 10. Course selection (List of eligible courses, credits, duration, end term exam date, professor, instructors)
 11. Select default exam city, country options
 12. Prefrence order
+13. Terms and conditions
+14. System specificatins for enrolling the course
+15. Preview form
+16. Registered as student in IITMOD (Create the document)
+17. FEE payment and details
+
+
 ## Student Personal Details
 1. Name
 2. email

@@ -27,7 +27,8 @@
 2. email
 3. mobile
 4. dob
-5. documents
+5. Address
+6. documents
     - ID proof
     - Category certificate
     - Fee receipt
@@ -38,9 +39,9 @@
     - Photo
     - Signature
     - 12th Mark sheet
-6. Hall tickets
-7. Admission letter
-8. Give status to students
+7. Hall tickets
+8. Admission letter
+9. Give status to students
         - Currently enrolled in atleast a course
         - New member
         - In probation
@@ -111,6 +112,7 @@
         - According to previous courses taken
         - Suggest term-wise plan for remaining courses
         - Suggest course orientation videos
+        - Student can give month&year of graduation he/she would like to as an input. Basing on it ML predicts the student timeline
     - Course selection considering all above criteria
 
 6. Fee payment

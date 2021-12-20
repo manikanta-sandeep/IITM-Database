@@ -4,6 +4,9 @@
 ### Course registration
 1. Course registration dates
 2. Fee structure and Uploading suitable documents
+       - catgeory certificate
+       - Pwd certificate
+       - Family income certificate
 3. Eligible courses for registartion
 4. Repeating courses
 5. Failed courses
